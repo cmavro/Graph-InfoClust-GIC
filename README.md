@@ -6,4 +6,4 @@ Unsupervised graph representation learning method
 GIC (node classification task) implemented in Deep Graph Library (DGL), which should be installed
 
 ## GIC
-GIC (link prediction, clustering, and visualizaition tasks) based on Deep Graph Infomax (DGI) implementation.
+GIC (link prediction, clustering, and visualization tasks) based on Deep Graph Infomax (DGI) implementation.
