@@ -10,7 +10,7 @@ An unsupervised node representation learning method (under review).
 GIC’s framework. (a) A fake input is created based on the real one. (b) Embeddings are computed for bothinputs with a GNN-encoder. (c) The graph and cluster summaries are computed. (d) The goal is to discriminate betweenreal and fake samples based on the computed summaries.
 
 ## gic-dgl
-GIC (node classification task) implemented in ![Deep Graph Library](https://github.com/dmlc/dgl) (DGL) , which should be installed.
+GIC (node classification task) implemented in [Deep Graph Library](https://github.com/dmlc/dgl) (DGL) , which should be installed.
 ```
 python train.py --dataset=[DATASET]
 ```
