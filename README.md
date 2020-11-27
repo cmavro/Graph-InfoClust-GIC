@@ -1,5 +1,5 @@
 # Graph-InfoClust-GIC
-Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning
+[Graph InfoClust](https://arxiv.org/abs/2009.06946): Leveraging cluster-level node information for unsupervised graph representation learning
 https://arxiv.org/abs/2009.06946
 
 An unsupervised node representation learning method (under review).
