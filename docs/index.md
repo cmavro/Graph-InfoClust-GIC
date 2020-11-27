@@ -5,7 +5,7 @@ https://arxiv.org/abs/2009.06946
 An unsupervised node representation learning method (under review).
 
 # Overview
-![](/../images/GIC_overview.png?raw=true "")
+![](../images/GIC_overview.png?raw=true "")
 
 GIC’s framework. (a) A fake input is created based on the real one. (b) Embeddings are computed for bothinputs with a GNN-encoder. (c) The graph and cluster summaries are computed. (d) The goal is to discriminate betweenreal and fake samples based on the computed summaries.
 
