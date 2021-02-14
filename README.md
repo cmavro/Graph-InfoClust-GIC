@@ -1,4 +1,4 @@
-# Graph-InfoClust-GIC
+# Graph-InfoClust-GIC [PAKDD 2021]
 [Graph InfoClust](https://arxiv.org/abs/2009.06946): Leveraging cluster-level node information for unsupervised graph representation learning
 https://arxiv.org/abs/2009.06946
 
