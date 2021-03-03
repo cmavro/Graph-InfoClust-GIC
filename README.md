@@ -23,10 +23,12 @@ python execute_link.py
 
 # Cite
 ```
-@article{mavromatis2020graph,
-  title={Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning},
-  author={Mavromatis, Costas and Karypis, George},
-  journal={arXiv preprint arXiv:2009.06946},
-  year={2020}
+@misc{mavromatis2020graph,
+    title={Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning},
+    author={Costas Mavromatis and George Karypis},
+    year={2020},
+    eprint={2009.06946},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
 ```
