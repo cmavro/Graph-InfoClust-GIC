@@ -1,9 +1,8 @@
 # Graph-InfoClust-GIC [PAKDD 2021]
 [PAKDD'21 version](https://www.springerprofessional.de/en/graph-infoclust-maximizing-coarse-grain-mutual-information-in-gr/19147684) Graph InfoClust: Maximizing Coarse-Grain Mutual Information in Graphs
-https://www.springerprofessional.de/en/graph-infoclust-maximizing-coarse-grain-mutual-information-in-gr/19147684
 
-[Preprint version](https://arxiv.org/abs/2009.06946)Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning
-https://arxiv.org/abs/2009.06946
+[Preprint version](https://arxiv.org/abs/2009.06946) Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning
+
 
 An unsupervised node representation learning method (to appear in PAKDD 2021).
 
