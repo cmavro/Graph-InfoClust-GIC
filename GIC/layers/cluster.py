@@ -25,11 +25,11 @@ def cluster(data, k, temp, num_iter, init, cluster_temp):
     n = data.shape[0]
     d = data.shape[1]
 #    
-    data = data / data.norm(dim=1)[:, None]
+    data = data / (data.norm(dim=1)[:, None] + 1e-6) #prevent zero-division loss with 1e-6
     for t in range(num_iter):
         
         
-        mu = mu / mu.norm(dim=1)[:, None]
+        mu = mu / (mu.norm(dim=1)[:, None] + 1e-6) #prevent zero-division with 1e-6
         dist = torch.mm(data, mu.transpose(0,1))
 
         
