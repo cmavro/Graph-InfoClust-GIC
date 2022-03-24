@@ -3,8 +3,9 @@
 
 [Preprint version](https://arxiv.org/abs/2009.06946) Graph InfoClust: Leveraging cluster-level node information for unsupervised graph representation learning
 
-
-An unsupervised node representation learning method (to appear in PAKDD 2021).
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-infoclust-leveraging-cluster-level-node/link-prediction-on-citeseer)](https://paperswithcode.com/sota/link-prediction-on-citeseer?p=graph-infoclust-leveraging-cluster-level-node)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-infoclust-leveraging-cluster-level-node/node-clustering-on-citeseer)](https://paperswithcode.com/sota/node-clustering-on-citeseer?p=graph-infoclust-leveraging-cluster-level-node)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-infoclust-leveraging-cluster-level-node/node-clustering-on-cora)](https://paperswithcode.com/sota/node-clustering-on-cora?p=graph-infoclust-leveraging-cluster-level-node)
 
 # Overview
 ![](/images/GIC_overview.png?raw=true "")
